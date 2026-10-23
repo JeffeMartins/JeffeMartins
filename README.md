@@ -1,88 +1,66 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:2563EB,100:7C3AED&height=220&section=header&text=Jefferson%20Martins&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=Tech%20Lead%20%E2%80%A2%20Backend%20%26%20Platform%20Engineer&descAlignY=56&descSize=18" alt="Jefferson Martins header" />
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3200&pause=900&color=60A5FA&center=true&vCenter=true&width=760&lines=Construindo+sistemas+escal%C3%A1veis+e+resilientes+%F0%9F%9A%80;Transformando+complexidade+em+arquitetura+simples+%F0%9F%A7%A9;Clean+Code+%E2%80%A2+Cloud+%E2%80%A2+APIs+%E2%80%A2+Distributed+Systems;Lideran%C3%A7a+t%C3%A9cnica+com+foco+em+pessoas+e+produto+%F0%9F%92%99" alt="Typing animation" />
-  </a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2563EB,100:7C3AED&height=190&section=header&text=Jefferson%20Martins&fontSize=44&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=Tech%20Lead%20%7C%20Backend%20%26%20Platform%20Engineering&descAlignY=57&descSize=17" alt="Jefferson Martins — Tech Lead, Backend and Platform Engineering" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JeffeMartins&label=Profile%20views&color=2563eb&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/JeffeMartins?label=Followers&style=for-the-badge&color=7c3aed" alt="GitHub followers" />
+  <strong>Building reliable systems, enabling engineering teams, and turning complexity into sustainable architecture.</strong>
 </p>
 
-## 👋 Sobre mim
+<p align="center">
+  <img src="https://img.shields.io/badge/Technical%20Leadership-0D1117?style=flat-square&logo=github&logoColor=60A5FA" alt="Technical Leadership" />
+  <img src="https://img.shields.io/badge/Distributed%20Systems-0D1117?style=flat-square&logo=apachekafka&logoColor=7C3AED" alt="Distributed Systems" />
+  <img src="https://img.shields.io/badge/Cloud%20Architecture-0D1117?style=flat-square&logo=amazonwebservices&logoColor=60A5FA" alt="Cloud Architecture" />
+  <img src="https://img.shields.io/badge/Developer%20Experience-0D1117?style=flat-square&logo=codacy&logoColor=7C3AED" alt="Developer Experience" />
+</p>
 
-Sou engenheiro de software e Tech Lead apaixonado por transformar desafios complexos em soluções simples, observáveis e sustentáveis.
+## About
 
-- 🧭 Liderança técnica, arquitetura e evolução de times.
-- ⚙️ Backend, BFFs, APIs GraphQL/REST e sistemas distribuídos.
-- ☁️ Cloud, serverless, mensageria, observabilidade e resiliência.
-- 🧹 Clean Code, SOLID, testes automatizados e code review.
-- 🌱 Aprendizado contínuo e compartilhamento de conhecimento.
-- 🎯 Foco em entregar valor com qualidade, segurança e pragmatismo.
+I am a **Tech Lead and Software Engineer** focused on backend and platform engineering. I help teams make sound technical decisions and build systems that remain reliable, observable, and easy to evolve as products grow.
 
-## 🧰 Stack & ferramentas
+My work sits at the intersection of **architecture, delivery, and people**: shaping technical direction, reviewing critical changes, reducing operational risk, and creating the conditions for engineers to do their best work.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,nextjs,graphql,go,java,spring,php,python,mongodb,redis,postgres,aws,docker,kubernetes,git,githubactions&perline=10" alt="Technology stack" />
-</div>
+## What I bring to a team
 
-<br />
+| | Focus | How I contribute |
+| :---: | :--- | :--- |
+| 🧭 | **Technical leadership** | Architecture decisions, engineering standards, code review, mentoring, and pragmatic trade-offs |
+| ⚙️ | **Backend & APIs** | Service boundaries, REST and GraphQL APIs, BFFs, contracts, integrations, and data flows |
+| 🔁 | **Distributed systems** | Event-driven architecture, asynchronous processing, resilience, idempotency, and caching |
+| ☁️ | **Cloud & platform** | AWS, serverless workloads, containers, CI/CD, observability, and developer experience |
+| ✅ | **Engineering quality** | Clean Code, SOLID, automated testing, secure delivery, and incremental modernization |
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Clean%20Architecture-0D1117?style=for-the-badge&logo=buffer&logoColor=60A5FA" alt="Clean Architecture" />
-  <img src="https://img.shields.io/badge/Distributed%20Systems-0D1117?style=for-the-badge&logo=apachekafka&logoColor=7C3AED" alt="Distributed Systems" />
-  <img src="https://img.shields.io/badge/Observability-0D1117?style=for-the-badge&logo=opentelemetry&logoColor=60A5FA" alt="Observability" />
-  <img src="https://img.shields.io/badge/Code%20Review-0D1117?style=for-the-badge&logo=github&logoColor=F8FAFC" alt="Code Review" />
-</div>
+## Domain experience
 
-## 🏗️ O que gosto de construir
+`E-commerce` · `Payments` · `Product Catalog` · `Search` · `Ratings & Reviews` · `Operational Platforms` · `Streaming`
 
-| Área | Experiência |
-| :--- | :--- |
-| 🛒 **E-commerce** | Jornadas digitais, catálogo, busca, avaliações e integrações |
-| 💳 **Pagamentos** | Cockpits operacionais, conciliação e gestão de integrações |
-| ⚡ **Cloud & Serverless** | AWS Lambda, filas, eventos e processamento assíncrono |
-| 🧠 **Plataformas** | Bibliotecas compartilhadas, gateways, BFFs e serviços resilientes |
-| 🎥 **Streaming** | Catálogo de mídia, assets, HLS e gestão de transmissões |
-
-## 📊 GitHub em números
+## Technology toolkit
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JeffeMartins&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=JeffeMartins&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" />
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=JeffeMartins&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffeMartins&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffeMartins&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffeMartins&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,nextjs,graphql,go,java,spring,php,python,mongodb,redis,postgres,aws,docker,kubernetes,git,githubactions&perline=10" alt="TypeScript, Node.js, NestJS, React, Next.js, GraphQL, Go, Java, Spring, PHP, Python, MongoDB, Redis, PostgreSQL, AWS, Docker, Kubernetes, Git, and GitHub Actions" />
 </div>
 
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=JeffeMartins&bg_color=0D1117&color=60A5FA&line=7C3AED&point=F8FAFC&area=true&hide_border=true" alt="Contribution activity graph" />
-</div>
+## Engineering principles
 
-## 🐍 Contribuições em movimento
+- Start with the business problem and make trade-offs explicit.
+- Prefer simple boundaries, clear contracts, and observable behavior.
+- Treat reliability, security, and maintainability as product concerns.
+- Use code review to share context and raise the engineering bar.
+- Improve systems incrementally without losing delivery momentum.
+
+## Contributions
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeffeMartins/JeffeMartins/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeffeMartins/JeffeMartins/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/JeffeMartins/JeffeMartins/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated GitHub contribution graph" src="https://raw.githubusercontent.com/JeffeMartins/JeffeMartins/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
-<div align="center">
-  <h3>💬 Vamos construir algo incrível?</h3>
-  <p>Boas arquiteturas nascem de boas conversas, contexto e colaboração.</p>
-</div>
+<p align="center">
+  <strong>Good architecture starts with context, collaboration, and clear decisions.</strong>
+</p>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,55:2563EB,100:0D1117&height=120&section=footer" alt="Footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0D1117&height=100&section=footer" alt="Footer" />
 </div>
