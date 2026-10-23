@@ -8,6 +8,10 @@ on:
     branches:
       - main
 
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: true
+
 jobs:
   generate:
     permissions:
