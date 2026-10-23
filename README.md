@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2563EB,100:7C3AED&height=190&section=header&text=Jefferson%20Martins&fontSize=44&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=Senior%20Software%20Engineer%20%7C%20Backend%20%26%20Platform&descAlignY=57&descSize=17" alt="Jefferson Martins — Senior Software Engineer, Backend and Platform" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2563EB,100:7C3AED&height=190&section=header&text=Jefferson%20Martins&fontSize=44&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=Senior%20Full-Stack%20Engineer%20%7C%20Web,%20Backend%20%26%20Platform&descAlignY=57&descSize=17" alt="Jefferson Martins — Senior Full-Stack Engineer, Web, Backend and Platform" />
 </div>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Senior%20Software%20Engineer-0D1117?style=flat-square&logo=github&logoColor=60A5FA" alt="Senior Software Engineer" />
+  <img src="https://img.shields.io/badge/Senior%20Full--Stack%20Engineer-0D1117?style=flat-square&logo=github&logoColor=60A5FA" alt="Senior Full-Stack Engineer" />
   <img src="https://img.shields.io/badge/Distributed%20Systems-0D1117?style=flat-square&logo=apachekafka&logoColor=7C3AED" alt="Distributed Systems" />
   <img src="https://img.shields.io/badge/Cloud%20Architecture-0D1117?style=flat-square&logo=amazonwebservices&logoColor=60A5FA" alt="Cloud Architecture" />
   <img src="https://img.shields.io/badge/Developer%20Experience-0D1117?style=flat-square&logo=codacy&logoColor=7C3AED" alt="Developer Experience" />
@@ -15,7 +15,7 @@
 
 ## About
 
-I am a **Senior Software Engineer** focused on backend and platform engineering, with experience acting as a **Tech Lead** and driving technical leadership. I build systems that remain reliable, observable, and easy to evolve as products grow.
+I am a **Senior Full-Stack Software Engineer** with strong backend and platform expertise, plus experience acting as a **Tech Lead** and driving technical leadership. I build end-to-end product journeys, from web interfaces to APIs, distributed services, and cloud infrastructure.
 
 My work sits at the intersection of **architecture, delivery, and people**: shaping technical direction, reviewing critical changes, reducing operational risk, and creating the conditions for engineers to do their best work.
 
@@ -23,6 +23,7 @@ My work sits at the intersection of **architecture, delivery, and people**: shap
 
 | | Focus | How I contribute |
 | :---: | :--- | :--- |
+| 🖥️ | **Frontend & web** | React and Next.js applications, design systems, state management, performance, and accessible interfaces |
 | ⚙️ | **Backend & APIs** | Service boundaries, REST and GraphQL APIs, BFFs, contracts, integrations, and data flows |
 | 🔁 | **Distributed systems** | Event-driven architecture, asynchronous processing, resilience, idempotency, and caching |
 | ☁️ | **Cloud & platform** | AWS, serverless workloads, containers, CI/CD, observability, and developer experience |
